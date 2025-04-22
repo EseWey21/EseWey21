@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Sajit Ventura 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+FullStack;Estudiante+de+Ingeniería+en+Telemática+en+el+IPN-UPIITA;&center=true&size=22&width=600" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+FullStack;Estudiante+de+Ingeniería+en+Telemática;&center=true&size=22&width=600" />
 </p>
 
 <p align="center">
