@@ -17,15 +17,15 @@ t<h1 align="center">
 
 ---
 
-##🧠 Habilidades Técnicas
+###🧠 Habilidades Técnicas
 
-##💻 Lenguajes de programación
+###💻 Lenguajes de programación
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,js,css" /> </p>
-##⚙️ Frameworks & Librerías
+###⚙️ Frameworks & Librerías
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet" /> </p>
-##🛠️ Herramientas y Tecnologías
+###🛠️ Herramientas y Tecnologías
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,latex" /> <br /> <strong>Office</strong> (Word, Excel, PowerPoint) </p>
-##🌍 Idiomas
+###🌍 Idiomas
 🇲🇽 Español: Nativo
 🇺🇸 Inglés: Nivel B1
 
