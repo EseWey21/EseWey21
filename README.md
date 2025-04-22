@@ -1,4 +1,4 @@
-<h1 align="center">
+t<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Sajit+Ventura;Desarrollador+FullStack;Apasionado+por+la+IA+y+los+Sistemas+Distribuidos;&center=true&size=25" />
 </h1>
 
@@ -12,16 +12,22 @@
 
 🎓 Estudiante de Ingeniería en Telemática en el IPN (UPIITA)  
 🧠 Amante de la programación, la ciberseguridad y los proyectos de hardware  
-🚀 Actualmente trabajando en **SpecCraft** y sistemas web inteligentes  
+🚀 Actualmente trabajando en **BestPCDeals** y sistemas web inteligentes  
 🎯 Apasionado por el aprendizaje continuo, las buenas prácticas y el diseño funcional
 
 ---
 
-### 🛠️ Tecnologías que uso
+##🧠 Habilidades Técnicas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,postgresql,mysql,arduino,github,vscode,linux,docker" />
-</p>
+##💻 Lenguajes de programación
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,js,css" /> </p>
+##⚙️ Frameworks & Librerías
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet" /> </p>
+##🛠️ Herramientas y Tecnologías
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,latex" /> <br /> <strong>Office</strong> (Word, Excel, PowerPoint) </p>
+##🌍 Idiomas
+🇲🇽 Español: Nativo
+🇺🇸 Inglés: Nivel B1
 
 ---
 
