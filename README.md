@@ -1,6 +1,8 @@
-t<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Sajit+Ventura;Desarrollador+FullStack;Apasionado+por+la+IA+y+los+Sistemas+Distribuidos;&center=true&size=25" />
-</h1>
+<h1 align="center">¡Hola! Soy Sajit Ventura 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+FullStack;Apasionado+por+la+IA+y+los+Sistemas+Distribuidos;Estudiante+de+Telemática+en+el+IPN-UPIITA;&center=true&size=22" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EseWey21&label=Visitas+al+perfil&color=brightgreen" alt="visitas" />
@@ -8,30 +10,41 @@ t<h1 align="center">
 
 ---
 
-### 🙋 Sobre mí
+## 🙋 Sobre mí
 
 🎓 Estudiante de Ingeniería en Telemática en el IPN (UPIITA)  
-🧠 Amante de la programación, la ciberseguridad y los proyectos de hardware  
-🚀 Actualmente trabajando en **BestPCDeals** y sistemas web inteligentes  
-🎯 Apasionado por el aprendizaje continuo, las buenas prácticas y el diseño funcional
+🧠 Apasionado por la programación, la ciberseguridad y los proyectos de hardware  
+🚀 Actualmente trabajando en **BestPCDeals** y desarrollando soluciones digitales personalizadas  
+💡 Me motiva crear herramientas tecnológicas útiles, visualmente limpias y bien estructuradas
 
 ---
 
-###🧠 Habilidades Técnicas
+## 🧠 Habilidades Técnicas
 
-###💻 Lenguajes de programación
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,js,css" /> </p>
-###⚙️ Frameworks & Librerías
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet" /> </p>
-###🛠️ Herramientas y Tecnologías
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,latex" /> <br /> <strong>Office</strong> (Word, Excel, PowerPoint) </p>
-###🌍 Idiomas
-🇲🇽 Español: Nativo
-🇺🇸 Inglés: Nivel B1
+### 💻 Lenguajes de programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,js,css" />
+</p>
+
+### ⚙️ Frameworks & Librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet" />
+</p>
+
+### 🛠️ Herramientas y Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,latex" />
+  <br />
+  <strong>Office:</strong> Word, Excel, PowerPoint
+</p>
+
+### 🌍 Idiomas
+- 🇲🇽 Español: Nativo  
+- 🇺🇸 Inglés: Nivel B1
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EseWey21&show_icons=true&theme=tokyonight" height="165" />
@@ -40,12 +53,14 @@ t<h1 align="center">
 
 ---
 
-### 📫 ¿Quieres contactarme?
+## 📫 Contacto
 
-- 📧 Correo: [sajitlove@hotmail.com](mailto:sajitlove@hotmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sajit-ventura-4197411b7/)
-- 🧠 [Portafolio (en construcción)](https://github.com/EseWey21/portafolio)
+- 📧 Correo: [sajitlove@hotmail.com](mailto:sajitlove@hotmail.com)  
+- 💼 LinkedIn: [Sajit Ventura](https://www.linkedin.com/in/sajit-ventura-4197411b7/)  
+- 🌐 Portafolio: [En construcción](https://github.com/EseWey21/portafolio)
 
 ---
 
-> _“Soluciones que conectan.” – Feba Code_
+<p align="center">
+  <em>“Soluciones que conectan.”</em> – <strong>Feba Code</strong>
+</p>
