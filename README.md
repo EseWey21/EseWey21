@@ -57,7 +57,7 @@
 
 - 📧 Correo: [sajitlove@hotmail.com](mailto:sajitlove@hotmail.com)  
 - 💼 LinkedIn: [Sajit Ventura](https://www.linkedin.com/in/sajit-ventura-4197411b7/)  
-- 🌐 Portafolio: [En construcción](https://github.com/EseWey21/portafolio)
+- 🌐 Portafolio: [EseWey21](https://esewey21.febacode.com)
 
 ---
 
