@@ -1,45 +1,45 @@
-<h1 align="center">¡Hola! Soy Sajit Ventura 👋</h1>
+<h1 align="center">Hello! I'm Sajit Ventura 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+FullStack;Estudiante+de+Ingeniería+en+Telemática;&center=true&size=22&width=600" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack+Developer;Telematics+Engineering+Student;&center=true&size=22&width=600" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EseWey21&label=Visitas+al+perfil&color=brightgreen" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=EseWey21&label=Profile+Views&color=brightgreen" alt="views" />
 </p>
 
 ---
 
-## 🙋 Sobre mí
+## 🙋 About Me
 
-🎓 Estudiante de Ingeniería en Telemática en el IPN (UPIITA)  
-🧠 Apasionado por la programación, la ciberseguridad y los proyectos de hardware
-💡 Me motiva crear herramientas tecnológicas útiles, visualmente limpias y bien estructuradas
+🎓 Telematics Engineering student at IPN (UPIITA)  
+🧠 Passionate about programming, cybersecurity, and hardware projects  
+💡 Driven by creating useful, clean, and well-structured tech tools  
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Technical Skills
 
-### 💻 Lenguajes de programación
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,js,css" />
 </p>
 
-### ⚙️ Frameworks & Librerías
+### ⚙️ Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet" />
 </p>
 
-### 🛠️ Herramientas y Tecnologías
+### 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,latex" />
   <br />
   <strong>Office:</strong> Word, Excel, PowerPoint
 </p>
 
-### 🌍 Idiomas
-- 🇲🇽 Español: Nativo  
-- 🇺🇸 Inglés: Nivel B1
+### 🌍 Languages
+- 🇲🇽 Spanish: Native  
+- 🇺🇸 English: B1 Level
 
 ---
 
@@ -52,14 +52,14 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-- 📧 Correo: [sajitlove@hotmail.com](mailto:sajitlove@hotmail.com)  
+- 📧 Email: [sajitlove@hotmail.com](mailto:sajitlove@hotmail.com)  
 - 💼 LinkedIn: [Sajit Ventura](https://www.linkedin.com/in/sajit-ventura-4197411b7/)  
-- 🌐 Portafolio: [EseWey21](https://esewey21.febacode.com)
+- 🌐 Portfolio: [EseWey21](https://esewey21.febacode.com)
 
 ---
 
 <p align="center">
-  <em>“Soluciones que conectan.”</em> – <strong>Feba Code</strong>
+  <em>“Solutions that connect.”</em> – <strong>Feba Code</strong>
 </p>
