@@ -13,8 +13,7 @@
 ## 🙋 Sobre mí
 
 🎓 Estudiante de Ingeniería en Telemática en el IPN (UPIITA)  
-🧠 Apasionado por la programación, la ciberseguridad y los proyectos de hardware  
-🚀 Actualmente trabajando en **BestPCDeals** y desarrollando soluciones digitales personalizadas  
+🧠 Apasionado por la programación, la ciberseguridad y los proyectos de hardware
 💡 Me motiva crear herramientas tecnológicas útiles, visualmente limpias y bien estructuradas
 
 ---
