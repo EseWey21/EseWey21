@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Sajit Ventura 👋</h1>
+<h1 align="center">Hello! I'm Sajit Ventura 🦥</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack+Developer;Telematics+Engineering+Student;&center=true&size=22&width=600" />
