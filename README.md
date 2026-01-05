@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <em>“Soluciones que conectan.”</em> – <strong>Feba Code</strong>
+  <em>“Soluciones que conectan.”</em> – <strong>Feba Code.</strong>
 </p>
