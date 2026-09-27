@@ -51,29 +51,15 @@
 
 ### 🌍 Languages
 - 🇲🇽 Spanish: Native
-- 🇺🇸 English: B2
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Mácara](https://macaracafe.com)** | Full-stack app in production for a local coffee shop | React · React Native · Node.js |
-| **[Ecoprep](https://ecoprep.com.mx)** | Educational platform in production with live users | React · Node.js |
-| **[Feba Code](https://esewey21.febacode.com)** | Studio landing page & personal portfolio | TypeScript |
+- 🇺🇸 English: B1
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EseWey21&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseWey21&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EseWey21&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+  <img src="https://img.shields.io/github/followers/EseWey21?style=for-the-badge&logo=github&color=282828&labelColor=black" />
+  <img src="https://img.shields.io/github/stars/EseWey21?style=for-the-badge&logo=github&color=282828&labelColor=black" />
 </p>
 
 ---
@@ -89,5 +75,5 @@
 ---
 
 <p align="center">
-  <em>“Soluciones que conectan.”</em> – <strong>Feba Code</strong>
+  <em>"Soluciones que conectan."</em> – <strong>Feba Code</strong>
 </p>
