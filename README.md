@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EseWey21&label=Profile+Views&color=brightgreen" alt="views" />
-  <img src="https://img.shields.io/badge/IBM-MAPFRE-052FAD?style=flat&logo=ibm" />
+  <img src="https://img.shields.io/badge/IBM-MAPFRE-D81E05?style=flat&logo=ibm&logoColor=white&labelColor=0530AD" />
   <img src="https://img.shields.io/badge/Feba%20Code-Co--founder-060021?style=flat" />
 </p>
 
